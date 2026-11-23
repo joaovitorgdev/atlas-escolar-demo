@@ -12,7 +12,6 @@ from pathlib import Path
 from xml.etree import ElementTree as ET
 
 RAIZ = Path(__file__).parent
-sys.stdout.reconfigure(encoding='utf-8')
 M = '{http://schemas.openxmlformats.org/spreadsheetml/2006/main}'
 R_ID = '{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id'
 
@@ -93,7 +92,11 @@ COLUNAS = {
 
 def ler_xlsx(caminho):
     """{nome da aba: [linhas]} — cada linha é uma lista de valores (str, float ou bool)."""
-    z = zipfile.ZipFile(caminho)
+    with zipfile.ZipFile(caminho) as z:
+        return _ler_abas(z)
+
+
+def _ler_abas(z):
     rels = {r.get('Id'): r.get('Target') for r in ET.fromstring(z.read('xl/_rels/workbook.xml.rels'))}
     comp = []
     if 'xl/sharedStrings.xml' in z.namelist():
@@ -501,4 +504,5 @@ def main():
     print(f"{len(d['escolas'])} escolas · {len(d['sres'])} SREs · Fases 1 e 2 R$ {total:,.2f} -> dados/infra.db, site/dados.js")
 
 if __name__ == '__main__':
+    sys.stdout.reconfigure(encoding='utf-8')
     main()
