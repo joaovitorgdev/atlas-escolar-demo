@@ -1,0 +1,5120 @@
+{
+"3100104": [
+"Abadia dos Dourados",
+[
+"MONTE CARMELO"
+]
+],
+"3100203": [
+"Abaeté",
+[
+"PARÁ DE MINAS"
+]
+],
+"3100302": [
+"Abre Campo",
+[
+"PONTE NOVA"
+]
+],
+"3100401": [
+"Acaiaca",
+[
+"OURO PRETO"
+]
+],
+"3100500": [
+"Açucena",
+[
+"GOVERNADOR VALADARES"
+]
+],
+"3100609": [
+"Água Boa",
+[
+"GUANHÃES"
+]
+],
+"3100708": [
+"Água Comprida",
+[
+"UBERABA"
+]
+],
+"3100807": [
+"Aguanil",
+[
+"CAMPO BELO"
+]
+],
+"3100906": [
+"Águas Formosas",
+[
+"TEÓFILO OTONI"
+]
+],
+"3101003": [
+"Águas Vermelhas",
+[
+"ALMENARA"
+]
+],
+"3101102": [
+"Aimorés",
+[
+"GOVERNADOR VALADARES"
+]
+],
+"3101201": [
+"Aiuruoca",
+[
+"CAXAMBU"
+]
+],
+"3101300": [
+"Alagoa",
+[
+"CAXAMBU"
+]
+],
+"3101409": [
+"Albertina",
+[
+"POUSO ALEGRE"
+]
+],
+"3101508": [
+"Além Paraíba",
+[
+"LEOPOLDINA"
+]
+],
+"3101607": [
+"Alfenas",
+[
+"VARGINHA"
+]
+],
+"3101631": [
+"Alfredo Vasconcelos",
+[
+"BARBACENA"
+]
+],
+"3101706": [
+"Almenara",
+[
+"ALMENARA"
+]
+],
+"3101805": [
+"Alpercata",
+[
+"GOVERNADOR VALADARES"
+]
+],
+"3101904": [
+"Alpinópolis",
+[
+"PASSOS"
+]
+],
+"3102001": [
+"Alterosa",
+[
+"POÇOS DE CALDAS"
+]
+],
+"3102050": [
+"Alto Caparaó",
+[
+"CARANGOLA"
+]
+],
+"3102100": [
+"Alto Rio Doce",
+[
+"BARBACENA"
+]
+],
+"3102209": [
+"Alvarenga",
+[
+"CARATINGA"
+]
+],
+"3102308": [
+"Alvinópolis",
+[
+"PONTE NOVA"
+]
+],
+"3102407": [
+"Alvorada de Minas",
+[
+"DIAMANTINA"
+]
+],
+"3102506": [
+"Amparo do Serra",
+[
+"PONTE NOVA"
+]
+],
+"3102605": [
+"Andradas",
+[
+"POÇOS DE CALDAS"
+]
+],
+"3102704": [
+"Cachoeira de Pajeú",
+[
+"ALMENARA"
+]
+],
+"3102803": [
+"Andrelândia",
+[
+"BARBACENA"
+]
+],
+"3102852": [
+"Angelândia",
+[
+"DIAMANTINA"
+]
+],
+"3102902": [
+"Antônio Carlos",
+[
+"BARBACENA"
+]
+],
+"3103009": [
+"Antônio Dias",
+[
+"CORONEL FABRICIANO"
+]
+],
+"3103108": [
+"Antônio Prado de Minas",
+[
+"MURIAÉ"
+]
+],
+"3103207": [
+"Araçaí",
+[
+"SETE LAGOAS"
+]
+],
+"3103306": [
+"Aracitaba",
+[
+"BARBACENA"
+]
+],
+"3103405": [
+"Araçuaí",
+[
+"ARAÇUAÍ"
+]
+],
+"3103504": [
+"Araguari",
+[
+"UBERLÂNDIA"
+]
+],
+"3103603": [
+"Arantina",
+[
+"JUIZ DE FORA"
+]
+],
+"3103702": [
+"Araponga",
+[
+"PONTE NOVA"
+]
+],
+"3103751": [
+"Araporã",
+[
+"UBERLÂNDIA"
+]
+],
+"3103801": [
+"Arapuá",
+[
+"PATOS DE MINAS"
+]
+],
+"3103900": [
+"Araújos",
+[
+"DIVINÓPOLIS"
+]
+],
+"3104007": [
+"Araxá",
+[
+"UBERABA"
+]
+],
+"3104106": [
+"Arceburgo",
+[
+"SÃO SEBASTIÃO DO PARAÍSO"
+]
+],
+"3104205": [
+"Arcos",
+[
+"DIVINÓPOLIS"
+]
+],
+"3104304": [
+"Areado",
+[
+"POÇOS DE CALDAS"
+]
+],
+"3104403": [
+"Argirita",
+[
+"LEOPOLDINA"
+]
+],
+"3104452": [
+"Aricanduva",
+[
+"DIAMANTINA"
+]
+],
+"3104502": [
+"Arinos",
+[
+"UNAÍ"
+]
+],
+"3104601": [
+"Astolfo Dutra",
+[
+"UBÁ"
+]
+],
+"3104700": [
+"Ataléia",
+[
+"TEÓFILO OTONI"
+]
+],
+"3104809": [
+"Augusto de Lima",
+[
+"CURVELO"
+]
+],
+"3104908": [
+"Baependi",
+[
+"CAXAMBU"
+]
+],
+"3105004": [
+"Baldim",
+[
+"SETE LAGOAS"
+]
+],
+"3105103": [
+"Bambuí",
+[
+"DIVINÓPOLIS"
+]
+],
+"3105202": [
+"Bandeira",
+[
+"ALMENARA"
+]
+],
+"3105301": [
+"Bandeira do Sul",
+[
+"POÇOS DE CALDAS"
+]
+],
+"3105400": [
+"Barão de Cocais",
+[
+"METROPOLITANA A"
+]
+],
+"3105509": [
+"Barão do Monte Alto",
+[
+"MURIAÉ"
+]
+],
+"3105608": [
+"Barbacena",
+[
+"BARBACENA"
+]
+],
+"3105707": [
+"Barra Longa",
+[
+"PONTE NOVA"
+]
+],
+"3105905": [
+"Barroso",
+[
+"BARBACENA"
+]
+],
+"3106002": [
+"Bela Vista de Minas",
+[
+"NOVA ERA"
+]
+],
+"3106101": [
+"Belmiro Braga",
+[
+"JUIZ DE FORA"
+]
+],
+"3106200": [
+"Belo Horizonte",
+[
+"METROPOLITANA A",
+"METROPOLITANA B",
+"METROPOLITANA C"
+]
+],
+"3106309": [
+"Belo Oriente",
+[
+"CORONEL FABRICIANO"
+]
+],
+"3106408": [
+"Belo Vale",
+[
+"METROPOLITANA A"
+]
+],
+"3106507": [
+"Berilo",
+[
+"ARAÇUAÍ"
+]
+],
+"3106606": [
+"Bertópolis",
+[
+"TEÓFILO OTONI"
+]
+],
+"3106655": [
+"Berizal",
+[
+"ARAÇUAÍ"
+]
+],
+"3106705": [
+"Betim",
+[
+"METROPOLITANA B"
+]
+],
+"3106804": [
+"Bias Fortes",
+[
+"BARBACENA"
+]
+],
+"3106903": [
+"Bicas",
+[
+"JUIZ DE FORA"
+]
+],
+"3107000": [
+"Biquinhas",
+[
+"PARÁ DE MINAS"
+]
+],
+"3107109": [
+"Boa Esperança",
+[
+"VARGINHA"
+]
+],
+"3107208": [
+"Bocaina de Minas",
+[
+"CAXAMBU"
+]
+],
+"3107307": [
+"Bocaiúva",
+[
+"MONTES CLAROS"
+]
+],
+"3107406": [
+"Bom Despacho",
+[
+"PARÁ DE MINAS"
+]
+],
+"3107505": [
+"Bom Jardim de Minas",
+[
+"JUIZ DE FORA"
+]
+],
+"3107604": [
+"Bom Jesus da Penha",
+[
+"PASSOS"
+]
+],
+"3107703": [
+"Bom Jesus do Amparo",
+[
+"METROPOLITANA A"
+]
+],
+"3107802": [
+"Bom Jesus do Galho",
+[
+"CARATINGA"
+]
+],
+"3107901": [
+"Bom Repouso",
+[
+"POUSO ALEGRE"
+]
+],
+"3108008": [
+"Bom Sucesso",
+[
+"SÃO JOÃO DEL REI"
+]
+],
+"3108107": [
+"Bonfim",
+[
+"METROPOLITANA A"
+]
+],
+"3108206": [
+"Bonfinópolis de Minas",
+[
+"UNAÍ"
+]
+],
+"3108255": [
+"Bonito de Minas",
+[
+"JANUÁRIA"
+]
+],
+"3108305": [
+"Borda da Mata",
+[
+"POUSO ALEGRE"
+]
+],
+"3108404": [
+"Botelhos",
+[
+"POÇOS DE CALDAS"
+]
+],
+"3108503": [
+"Botumirim",
+[
+"MONTES CLAROS"
+]
+],
+"3108552": [
+"Brasilândia de Minas",
+[
+"PARACATU"
+]
+],
+"3108602": [
+"Brasília de Minas",
+[
+"MONTES CLAROS"
+]
+],
+"3108701": [
+"Brás Pires",
+[
+"UBÁ"
+]
+],
+"3108800": [
+"Braúnas",
+[
+"CORONEL FABRICIANO"
+]
+],
+"3108909": [
+"Brazópolis",
+[
+"ITAJUBÁ"
+]
+],
+"3109006": [
+"Brumadinho",
+[
+"METROPOLITANA A"
+]
+],
+"3109105": [
+"Bueno Brandão",
+[
+"POUSO ALEGRE"
+]
+],
+"3109204": [
+"Buenópolis",
+[
+"CURVELO"
+]
+],
+"3109253": [
+"Bugre",
+[
+"CARATINGA"
+]
+],
+"3109303": [
+"Buritis",
+[
+"UNAÍ"
+]
+],
+"3109402": [
+"Buritizeiro",
+[
+"PIRAPORA"
+]
+],
+"3109451": [
+"Cabeceira Grande",
+[
+"UNAÍ"
+]
+],
+"3109501": [
+"Cabo Verde",
+[
+"POÇOS DE CALDAS"
+]
+],
+"3109600": [
+"Cachoeira da Prata",
+[
+"SETE LAGOAS"
+]
+],
+"3109709": [
+"Cachoeira de Minas",
+[
+"POUSO ALEGRE"
+]
+],
+"3109808": [
+"Cachoeira Dourada",
+[
+"ITUIUTABA"
+]
+],
+"3109907": [
+"Caetanópolis",
+[
+"SETE LAGOAS"
+]
+],
+"3110004": [
+"Caeté",
+[
+"METROPOLITANA A"
+]
+],
+"3110103": [
+"Caiana",
+[
+"CARANGOLA"
+]
+],
+"3110202": [
+"Cajuri",
+[
+"PONTE NOVA"
+]
+],
+"3110301": [
+"Caldas",
+[
+"POÇOS DE CALDAS"
+]
+],
+"3110400": [
+"Camacho",
+[
+"CAMPO BELO"
+]
+],
+"3110509": [
+"Camanducaia",
+[
+"POUSO ALEGRE"
+]
+],
+"3110608": [
+"Cambuí",
+[
+"POUSO ALEGRE"
+]
+],
+"3110707": [
+"Cambuquira",
+[
+"VARGINHA"
+]
+],
+"3110806": [
+"Campanário",
+[
+"TEÓFILO OTONI"
+]
+],
+"3110905": [
+"Campanha",
+[
+"VARGINHA"
+]
+],
+"3111002": [
+"Campestre",
+[
+"POÇOS DE CALDAS"
+]
+],
+"3111101": [
+"Campina Verde",
+[
+"UBERLÂNDIA"
+]
+],
+"3111150": [
+"Campo Azul",
+[
+"MONTES CLAROS"
+]
+],
+"3111200": [
+"Campo Belo",
+[
+"CAMPO BELO"
+]
+],
+"3111309": [
+"Campo do Meio",
+[
+"VARGINHA"
+]
+],
+"3111408": [
+"Campo Florido",
+[
+"UBERABA"
+]
+],
+"3111507": [
+"Campos Altos",
+[
+"UBERABA"
+]
+],
+"3111606": [
+"Campos Gerais",
+[
+"VARGINHA"
+]
+],
+"3111705": [
+"Canaã",
+[
+"PONTE NOVA"
+]
+],
+"3111804": [
+"Canápolis",
+[
+"ITUIUTABA"
+]
+],
+"3111903": [
+"Cana Verde",
+[
+"CAMPO BELO"
+]
+],
+"3112000": [
+"Candeias",
+[
+"CAMPO BELO"
+]
+],
+"3112059": [
+"Cantagalo",
+[
+"GUANHÃES"
+]
+],
+"3112109": [
+"Caparaó",
+[
+"CARANGOLA"
+]
+],
+"3112208": [
+"Capela Nova",
+[
+"BARBACENA"
+]
+],
+"3112307": [
+"Capelinha",
+[
+"DIAMANTINA"
+]
+],
+"3112406": [
+"Capetinga",
+[
+"SÃO SEBASTIÃO DO PARAÍSO"
+]
+],
+"3112505": [
+"Capim Branco",
+[
+"SETE LAGOAS"
+]
+],
+"3112604": [
+"Capinópolis",
+[
+"ITUIUTABA"
+]
+],
+"3112653": [
+"Capitão Andrade",
+[
+"GOVERNADOR VALADARES"
+]
+],
+"3112703": [
+"Capitão Enéas",
+[
+"MONTES CLAROS"
+]
+],
+"3112802": [
+"Capitólio",
+[
+"PASSOS"
+]
+],
+"3112901": [
+"Caputira",
+[
+"MANHUAÇU"
+]
+],
+"3113008": [
+"Caraí",
+[
+"TEÓFILO OTONI"
+]
+],
+"3113107": [
+"Caranaíba",
+[
+"CONSELHEIRO LAFAIETE"
+]
+],
+"3113206": [
+"Carandaí",
+[
+"BARBACENA"
+]
+],
+"3113305": [
+"Carangola",
+[
+"CARANGOLA"
+]
+],
+"3113404": [
+"Caratinga",
+[
+"CARATINGA"
+]
+],
+"3113503": [
+"Carbonita",
+[
+"DIAMANTINA"
+]
+],
+"3113602": [
+"Careaçu",
+[
+"POUSO ALEGRE"
+]
+],
+"3113701": [
+"Carlos Chagas",
+[
+"TEÓFILO OTONI"
+]
+],
+"3113800": [
+"Carmésia",
+[
+"GUANHÃES"
+]
+],
+"3113909": [
+"Carmo da Cachoeira",
+[
+"VARGINHA"
+]
+],
+"3114006": [
+"Carmo da Mata",
+[
+"DIVINÓPOLIS"
+]
+],
+"3114105": [
+"Carmo de Minas",
+[
+"ITAJUBÁ"
+]
+],
+"3114204": [
+"Carmo do Cajuru",
+[
+"DIVINÓPOLIS"
+]
+],
+"3114303": [
+"Carmo do Paranaíba",
+[
+"PATOS DE MINAS"
+]
+],
+"3114402": [
+"Carmo do Rio Claro",
+[
+"PASSOS"
+]
+],
+"3114501": [
+"Carmópolis de Minas",
+[
+"DIVINÓPOLIS"
+]
+],
+"3114550": [
+"Carneirinho",
+[
+"UBERABA"
+]
+],
+"3114600": [
+"Carrancas",
+[
+"SÃO JOÃO DEL REI"
+]
+],
+"3114709": [
+"Carvalhópolis",
+[
+"VARGINHA"
+]
+],
+"3114808": [
+"Carvalhos",
+[
+"CAXAMBU"
+]
+],
+"3114907": [
+"Casa Grande",
+[
+"CONSELHEIRO LAFAIETE"
+]
+],
+"3115003": [
+"Cascalho Rico",
+[
+"MONTE CARMELO"
+]
+],
+"3115102": [
+"Cássia",
+[
+"SÃO SEBASTIÃO DO PARAÍSO"
+]
+],
+"3115201": [
+"Conceição da Barra de Minas",
+[
+"SÃO JOÃO DEL REI"
+]
+],
+"3115300": [
+"Cataguases",
+[
+"LEOPOLDINA"
+]
+],
+"3115359": [
+"Catas Altas",
+[
+"METROPOLITANA A"
+]
+],
+"3115409": [
+"Catas Altas da Noruega",
+[
+"CONSELHEIRO LAFAIETE"
+]
+],
+"3115458": [
+"Catuji",
+[
+"TEÓFILO OTONI"
+]
+],
+"3115474": [
+"Catuti",
+[
+"JANAÚBA"
+]
+],
+"3115508": [
+"Caxambu",
+[
+"CAXAMBU"
+]
+],
+"3115607": [
+"Cedro do Abaeté",
+[
+"PARÁ DE MINAS"
+]
+],
+"3115706": [
+"Central de Minas",
+[
+"GOVERNADOR VALADARES"
+]
+],
+"3115805": [
+"Centralina",
+[
+"ITUIUTABA"
+]
+],
+"3115904": [
+"Chácara",
+[
+"JUIZ DE FORA"
+]
+],
+"3116001": [
+"Chalé",
+[
+"MANHUAÇU"
+]
+],
+"3116100": [
+"Chapada do Norte",
+[
+"ARAÇUAÍ"
+]
+],
+"3116159": [
+"Chapada Gaúcha",
+[
+"JANUÁRIA"
+]
+],
+"3116209": [
+"Chiador",
+[
+"JUIZ DE FORA"
+]
+],
+"3116308": [
+"Cipotânea",
+[
+"BARBACENA"
+]
+],
+"3116407": [
+"Claraval",
+[
+"SÃO SEBASTIÃO DO PARAÍSO"
+]
+],
+"3116506": [
+"Claro dos Poções",
+[
+"MONTES CLAROS"
+]
+],
+"3116605": [
+"Cláudio",
+[
+"DIVINÓPOLIS"
+]
+],
+"3116704": [
+"Coimbra",
+[
+"UBÁ"
+]
+],
+"3116803": [
+"Coluna",
+[
+"GUANHÃES"
+]
+],
+"3116902": [
+"Comendador Gomes",
+[
+"UBERABA"
+]
+],
+"3117009": [
+"Comercinho",
+[
+"ARAÇUAÍ"
+]
+],
+"3117108": [
+"Conceição da Aparecida",
+[
+"POÇOS DE CALDAS"
+]
+],
+"3117207": [
+"Conceição das Pedras",
+[
+"ITAJUBÁ"
+]
+],
+"3117306": [
+"Conceição das Alagoas",
+[
+"UBERABA"
+]
+],
+"3117405": [
+"Conceição de Ipanema",
+[
+"MANHUAÇU"
+]
+],
+"3117504": [
+"Conceição do Mato Dentro",
+[
+"DIAMANTINA"
+]
+],
+"3117603": [
+"Conceição do Pará",
+[
+"PARÁ DE MINAS"
+]
+],
+"3117702": [
+"Conceição do Rio Verde",
+[
+"CAXAMBU"
+]
+],
+"3117801": [
+"Conceição dos Ouros",
+[
+"ITAJUBÁ"
+]
+],
+"3117836": [
+"Cônego Marinho",
+[
+"JANUÁRIA"
+]
+],
+"3117876": [
+"Confins",
+[
+"METROPOLITANA C"
+]
+],
+"3117900": [
+"Congonhal",
+[
+"POUSO ALEGRE"
+]
+],
+"3118007": [
+"Congonhas",
+[
+"CONSELHEIRO LAFAIETE"
+]
+],
+"3118106": [
+"Congonhas do Norte",
+[
+"DIAMANTINA"
+]
+],
+"3118205": [
+"Conquista",
+[
+"UBERABA"
+]
+],
+"3118304": [
+"Conselheiro Lafaiete",
+[
+"CONSELHEIRO LAFAIETE"
+]
+],
+"3118403": [
+"Conselheiro Pena",
+[
+"GOVERNADOR VALADARES"
+]
+],
+"3118502": [
+"Consolação",
+[
+"ITAJUBÁ"
+]
+],
+"3118601": [
+"Contagem",
+[
+"METROPOLITANA B"
+]
+],
+"3118700": [
+"Coqueiral",
+[
+"VARGINHA"
+]
+],
+"3118809": [
+"Coração de Jesus",
+[
+"MONTES CLAROS"
+]
+],
+"3118908": [
+"Cordisburgo",
+[
+"SETE LAGOAS"
+]
+],
+"3119005": [
+"Cordislândia",
+[
+"VARGINHA"
+]
+],
+"3119104": [
+"Corinto",
+[
+"CURVELO"
+]
+],
+"3119203": [
+"Coroaci",
+[
+"GOVERNADOR VALADARES"
+]
+],
+"3119302": [
+"Coromandel",
+[
+"MONTE CARMELO"
+]
+],
+"3119401": [
+"Coronel Fabriciano",
+[
+"CORONEL FABRICIANO"
+]
+],
+"3119500": [
+"Coronel Murta",
+[
+"ARAÇUAÍ"
+]
+],
+"3119609": [
+"Coronel Pacheco",
+[
+"JUIZ DE FORA"
+]
+],
+"3119708": [
+"Coronel Xavier Chaves",
+[
+"SÃO JOÃO DEL REI"
+]
+],
+"3119807": [
+"Córrego Danta",
+[
+"DIVINÓPOLIS"
+]
+],
+"3119906": [
+"Córrego do Bom Jesus",
+[
+"POUSO ALEGRE"
+]
+],
+"3119955": [
+"Córrego Fundo",
+[
+"PASSOS"
+]
+],
+"3120003": [
+"Córrego Novo",
+[
+"CARATINGA"
+]
+],
+"3120102": [
+"Couto de Magalhães de Minas",
+[
+"DIAMANTINA"
+]
+],
+"3120151": [
+"Crisólita",
+[
+"TEÓFILO OTONI"
+]
+],
+"3120201": [
+"Cristais",
+[
+"CAMPO BELO"
+]
+],
+"3120300": [
+"Cristália",
+[
+"MONTES CLAROS"
+]
+],
+"3120409": [
+"Cristiano Otoni",
+[
+"CONSELHEIRO LAFAIETE"
+]
+],
+"3120508": [
+"Cristina",
+[
+"ITAJUBÁ"
+]
+],
+"3120607": [
+"Crucilândia",
+[
+"METROPOLITANA A"
+]
+],
+"3120706": [
+"Cruzeiro da Fortaleza",
+[
+"PATROCÍNIO"
+]
+],
+"3120805": [
+"Cruzília",
+[
+"CAXAMBU"
+]
+],
+"3120839": [
+"Cuparaque",
+[
+"GOVERNADOR VALADARES"
+]
+],
+"3120870": [
+"Curral de Dentro",
+[
+"ALMENARA"
+]
+],
+"3120904": [
+"Curvelo",
+[
+"CURVELO"
+]
+],
+"3121001": [
+"Datas",
+[
+"DIAMANTINA"
+]
+],
+"3121100": [
+"Delfim Moreira",
+[
+"ITAJUBÁ"
+]
+],
+"3121209": [
+"Delfinópolis",
+[
+"PASSOS"
+]
+],
+"3121258": [
+"Delta",
+[
+"UBERABA"
+]
+],
+"3121308": [
+"Descoberto",
+[
+"JUIZ DE FORA"
+]
+],
+"3121407": [
+"Desterro de Entre Rios",
+[
+"CONSELHEIRO LAFAIETE"
+]
+],
+"3121506": [
+"Desterro do Melo",
+[
+"BARBACENA"
+]
+],
+"3121605": [
+"Diamantina",
+[
+"DIAMANTINA"
+]
+],
+"3121704": [
+"Diogo de Vasconcelos",
+[
+"OURO PRETO"
+]
+],
+"3121803": [
+"Dionísio",
+[
+"NOVA ERA"
+]
+],
+"3121902": [
+"Divinésia",
+[
+"UBÁ"
+]
+],
+"3122009": [
+"Divino",
+[
+"CARANGOLA"
+]
+],
+"3122108": [
+"Divino das Laranjeiras",
+[
+"GOVERNADOR VALADARES"
+]
+],
+"3122207": [
+"Divinolândia de Minas",
+[
+"GUANHÃES"
+]
+],
+"3122306": [
+"Divinópolis",
+[
+"DIVINÓPOLIS"
+]
+],
+"3122355": [
+"Divisa Alegre",
+[
+"ALMENARA"
+]
+],
+"3122405": [
+"Divisa Nova",
+[
+"POÇOS DE CALDAS"
+]
+],
+"3122454": [
+"Divisópolis",
+[
+"ALMENARA"
+]
+],
+"3122470": [
+"Dom Bosco",
+[
+"UNAÍ"
+]
+],
+"3122504": [
+"Dom Cavati",
+[
+"CARATINGA"
+]
+],
+"3122603": [
+"Dom Joaquim",
+[
+"GUANHÃES"
+]
+],
+"3122702": [
+"Dom Silvério",
+[
+"PONTE NOVA"
+]
+],
+"3122801": [
+"Dom Viçoso",
+[
+"ITAJUBÁ"
+]
+],
+"3122900": [
+"Dona Euzébia",
+[
+"UBÁ"
+]
+],
+"3123007": [
+"Dores de Campos",
+[
+"SÃO JOÃO DEL REI"
+]
+],
+"3123106": [
+"Dores de Guanhães",
+[
+"GUANHÃES"
+]
+],
+"3123205": [
+"Dores do Indaiá",
+[
+"PARÁ DE MINAS"
+]
+],
+"3123304": [
+"Dores do Turvo",
+[
+"UBÁ"
+]
+],
+"3123403": [
+"Doresópolis",
+[
+"PASSOS"
+]
+],
+"3123502": [
+"Douradoquara",
+[
+"MONTE CARMELO"
+]
+],
+"3123528": [
+"Durandé",
+[
+"MANHUAÇU"
+]
+],
+"3123601": [
+"Elói Mendes",
+[
+"VARGINHA"
+]
+],
+"3123700": [
+"Engenheiro Caldas",
+[
+"GOVERNADOR VALADARES"
+]
+],
+"3123809": [
+"Engenheiro Navarro",
+[
+"MONTES CLAROS"
+]
+],
+"3123858": [
+"Entre Folhas",
+[
+"CARATINGA"
+]
+],
+"3123908": [
+"Entre Rios de Minas",
+[
+"CONSELHEIRO LAFAIETE"
+]
+],
+"3124005": [
+"Ervália",
+[
+"UBÁ"
+]
+],
+"3124104": [
+"Esmeraldas",
+[
+"METROPOLITANA B"
+]
+],
+"3124203": [
+"Espera Feliz",
+[
+"CARANGOLA"
+]
+],
+"3124302": [
+"Espinosa",
+[
+"JANAÚBA"
+]
+],
+"3124401": [
+"Espírito Santo do Dourado",
+[
+"POUSO ALEGRE"
+]
+],
+"3124500": [
+"Estiva",
+[
+"POUSO ALEGRE"
+]
+],
+"3124609": [
+"Estrela Dalva",
+[
+"LEOPOLDINA"
+]
+],
+"3124708": [
+"Estrela do Indaiá",
+[
+"PARÁ DE MINAS"
+]
+],
+"3124807": [
+"Estrela do Sul",
+[
+"MONTE CARMELO"
+]
+],
+"3124906": [
+"Eugenópolis",
+[
+"MURIAÉ"
+]
+],
+"3125002": [
+"Ewbank da Câmara",
+[
+"JUIZ DE FORA"
+]
+],
+"3125101": [
+"Extrema",
+[
+"POUSO ALEGRE"
+]
+],
+"3125200": [
+"Fama",
+[
+"VARGINHA"
+]
+],
+"3125309": [
+"Faria Lemos",
+[
+"CARANGOLA"
+]
+],
+"3125408": [
+"Felício dos Santos",
+[
+"DIAMANTINA"
+]
+],
+"3125507": [
+"São Gonçalo do Rio Preto",
+[
+"DIAMANTINA"
+]
+],
+"3125606": [
+"Felisburgo",
+[
+"ALMENARA"
+]
+],
+"3125705": [
+"Felixlândia",
+[
+"CURVELO"
+]
+],
+"3125804": [
+"Fernandes Tourinho",
+[
+"GOVERNADOR VALADARES"
+]
+],
+"3125903": [
+"Ferros",
+[
+"NOVA ERA"
+]
+],
+"3125952": [
+"Fervedouro",
+[
+"CARANGOLA"
+]
+],
+"3126000": [
+"Florestal",
+[
+"PARÁ DE MINAS"
+]
+],
+"3126109": [
+"Formiga",
+[
+"PASSOS"
+]
+],
+"3126208": [
+"Formoso",
+[
+"UNAÍ"
+]
+],
+"3126307": [
+"Fortaleza de Minas",
+[
+"PASSOS"
+]
+],
+"3126406": [
+"Fortuna de Minas",
+[
+"SETE LAGOAS"
+]
+],
+"3126505": [
+"Francisco Badaró",
+[
+"ARAÇUAÍ"
+]
+],
+"3126604": [
+"Francisco Dumont",
+[
+"MONTES CLAROS"
+]
+],
+"3126703": [
+"Francisco Sá",
+[
+"MONTES CLAROS"
+]
+],
+"3126752": [
+"Franciscópolis",
+[
+"TEÓFILO OTONI"
+]
+],
+"3126802": [
+"Frei Gaspar",
+[
+"TEÓFILO OTONI"
+]
+],
+"3126901": [
+"Frei Inocêncio",
+[
+"GOVERNADOR VALADARES"
+]
+],
+"3126950": [
+"Frei Lagonegro",
+[
+"GUANHÃES"
+]
+],
+"3127008": [
+"Fronteira",
+[
+"UBERABA"
+]
+],
+"3127057": [
+"Fronteira dos Vales",
+[
+"TEÓFILO OTONI"
+]
+],
+"3127073": [
+"Fruta de Leite",
+[
+"ARAÇUAÍ"
+]
+],
+"3127107": [
+"Frutal",
+[
+"UBERABA"
+]
+],
+"3127206": [
+"Funilândia",
+[
+"SETE LAGOAS"
+]
+],
+"3127305": [
+"Galiléia",
+[
+"GOVERNADOR VALADARES"
+]
+],
+"3127339": [
+"Gameleiras",
+[
+"JANAÚBA"
+]
+],
+"3127354": [
+"Glaucilândia",
+[
+"MONTES CLAROS"
+]
+],
+"3127370": [
+"Goiabeira",
+[
+"GOVERNADOR VALADARES"
+]
+],
+"3127388": [
+"Goianá",
+[
+"JUIZ DE FORA"
+]
+],
+"3127404": [
+"Gonçalves",
+[
+"ITAJUBÁ"
+]
+],
+"3127503": [
+"Gonzaga",
+[
+"GUANHÃES"
+]
+],
+"3127602": [
+"Gouveia",
+[
+"DIAMANTINA"
+]
+],
+"3127701": [
+"Governador Valadares",
+[
+"GOVERNADOR VALADARES"
+]
+],
+"3127800": [
+"Grão Mogol",
+[
+"MONTES CLAROS"
+]
+],
+"3127909": [
+"Grupiara",
+[
+"MONTE CARMELO"
+]
+],
+"3128006": [
+"Guanhães",
+[
+"GUANHÃES"
+]
+],
+"3128105": [
+"Guapé",
+[
+"VARGINHA"
+]
+],
+"3128204": [
+"Guaraciaba",
+[
+"PONTE NOVA"
+]
+],
+"3128253": [
+"Guaraciama",
+[
+"MONTES CLAROS"
+]
+],
+"3128303": [
+"Guaranésia",
+[
+"SÃO SEBASTIÃO DO PARAÍSO"
+]
+],
+"3128402": [
+"Guarani",
+[
+"UBÁ"
+]
+],
+"3128501": [
+"Guarará",
+[
+"JUIZ DE FORA"
+]
+],
+"3128600": [
+"Guarda-Mor",
+[
+"PARACATU"
+]
+],
+"3128709": [
+"Guaxupé",
+[
+"SÃO SEBASTIÃO DO PARAÍSO"
+]
+],
+"3128808": [
+"Guidoval",
+[
+"UBÁ"
+]
+],
+"3128907": [
+"Guimarânia",
+[
+"PATROCÍNIO"
+]
+],
+"3129004": [
+"Guiricema",
+[
+"UBÁ"
+]
+],
+"3129103": [
+"Gurinhatã",
+[
+"ITUIUTABA"
+]
+],
+"3129202": [
+"Heliodora",
+[
+"POUSO ALEGRE"
+]
+],
+"3129301": [
+"Iapu",
+[
+"CARATINGA"
+]
+],
+"3129400": [
+"Ibertioga",
+[
+"BARBACENA"
+]
+],
+"3129509": [
+"Ibiá",
+[
+"PATROCÍNIO"
+]
+],
+"3129608": [
+"Ibiaí",
+[
+"PIRAPORA"
+]
+],
+"3129657": [
+"Ibiracatu",
+[
+"JANUÁRIA"
+]
+],
+"3129707": [
+"Ibiraci",
+[
+"SÃO SEBASTIÃO DO PARAÍSO"
+]
+],
+"3129806": [
+"Ibirité",
+[
+"METROPOLITANA B"
+]
+],
+"3129905": [
+"Ibitiúra de Minas",
+[
+"POÇOS DE CALDAS"
+]
+],
+"3130002": [
+"Ibituruna",
+[
+"SÃO JOÃO DEL REI"
+]
+],
+"3130051": [
+"Icaraí de Minas",
+[
+"JANUÁRIA"
+]
+],
+"3130101": [
+"Igarapé",
+[
+"METROPOLITANA B"
+]
+],
+"3130200": [
+"Igaratinga",
+[
+"PARÁ DE MINAS"
+]
+],
+"3130309": [
+"Iguatama",
+[
+"DIVINÓPOLIS"
+]
+],
+"3130408": [
+"Ijaci",
+[
+"SÃO JOÃO DEL REI"
+]
+],
+"3130507": [
+"Ilicínea",
+[
+"VARGINHA"
+]
+],
+"3130556": [
+"Imbé de Minas",
+[
+"CARATINGA"
+]
+],
+"3130606": [
+"Inconfidentes",
+[
+"POUSO ALEGRE"
+]
+],
+"3130655": [
+"Indaiabira",
+[
+"ARAÇUAÍ"
+]
+],
+"3130705": [
+"Indianópolis",
+[
+"UBERLÂNDIA"
+]
+],
+"3130804": [
+"Ingaí",
+[
+"SÃO JOÃO DEL REI"
+]
+],
+"3130903": [
+"Inhapim",
+[
+"CARATINGA"
+]
+],
+"3131000": [
+"Inhaúma",
+[
+"SETE LAGOAS"
+]
+],
+"3131109": [
+"Inimutaba",
+[
+"CURVELO"
+]
+],
+"3131158": [
+"Ipaba",
+[
+"CARATINGA"
+]
+],
+"3131208": [
+"Ipanema",
+[
+"CARATINGA"
+]
+],
+"3131307": [
+"Ipatinga",
+[
+"CORONEL FABRICIANO"
+]
+],
+"3131406": [
+"Ipiaçu",
+[
+"ITUIUTABA"
+]
+],
+"3131505": [
+"Ipuiúna",
+[
+"POUSO ALEGRE"
+]
+],
+"3131604": [
+"Iraí de Minas",
+[
+"PATROCÍNIO"
+]
+],
+"3131703": [
+"Itabira",
+[
+"NOVA ERA"
+]
+],
+"3131802": [
+"Itabirinha",
+[
+"GOVERNADOR VALADARES"
+]
+],
+"3131901": [
+"Itabirito",
+[
+"OURO PRETO"
+]
+],
+"3132008": [
+"Itacambira",
+[
+"MONTES CLAROS"
+]
+],
+"3132107": [
+"Itacarambi",
+[
+"JANUÁRIA"
+]
+],
+"3132206": [
+"Itaguara",
+[
+"DIVINÓPOLIS"
+]
+],
+"3132305": [
+"Itaipé",
+[
+"TEÓFILO OTONI"
+]
+],
+"3132404": [
+"Itajubá",
+[
+"ITAJUBÁ"
+]
+],
+"3132503": [
+"Itamarandiba",
+[
+"DIAMANTINA"
+]
+],
+"3132602": [
+"Itamarati de Minas",
+[
+"LEOPOLDINA"
+]
+],
+"3132701": [
+"Itambacuri",
+[
+"TEÓFILO OTONI"
+]
+],
+"3132800": [
+"Itambé do Mato Dentro",
+[
+"NOVA ERA"
+]
+],
+"3132909": [
+"Itamogi",
+[
+"SÃO SEBASTIÃO DO PARAÍSO"
+]
+],
+"3133006": [
+"Itamonte",
+[
+"CAXAMBU"
+]
+],
+"3133105": [
+"Itanhandu",
+[
+"CAXAMBU"
+]
+],
+"3133204": [
+"Itanhomi",
+[
+"GOVERNADOR VALADARES"
+]
+],
+"3133303": [
+"Itaobim",
+[
+"ARAÇUAÍ"
+]
+],
+"3133402": [
+"Itapagipe",
+[
+"UBERABA"
+]
+],
+"3133501": [
+"Itapecerica",
+[
+"DIVINÓPOLIS"
+]
+],
+"3133600": [
+"Itapeva",
+[
+"POUSO ALEGRE"
+]
+],
+"3133709": [
+"Itatiaiuçu",
+[
+"DIVINÓPOLIS"
+]
+],
+"3133758": [
+"Itaú de Minas",
+[
+"SÃO SEBASTIÃO DO PARAÍSO"
+]
+],
+"3133808": [
+"Itaúna",
+[
+"DIVINÓPOLIS"
+]
+],
+"3133907": [
+"Itaverava",
+[
+"CONSELHEIRO LAFAIETE"
+]
+],
+"3134004": [
+"Itinga",
+[
+"ARAÇUAÍ"
+]
+],
+"3134103": [
+"Itueta",
+[
+"GOVERNADOR VALADARES"
+]
+],
+"3134202": [
+"Ituiutaba",
+[
+"ITUIUTABA"
+]
+],
+"3134301": [
+"Itumirim",
+[
+"SÃO JOÃO DEL REI"
+]
+],
+"3134400": [
+"Iturama",
+[
+"UBERABA"
+]
+],
+"3134509": [
+"Itutinga",
+[
+"SÃO JOÃO DEL REI"
+]
+],
+"3134608": [
+"Jaboticatubas",
+[
+"METROPOLITANA C"
+]
+],
+"3134707": [
+"Jacinto",
+[
+"ALMENARA"
+]
+],
+"3134806": [
+"Jacuí",
+[
+"SÃO SEBASTIÃO DO PARAÍSO"
+]
+],
+"3134905": [
+"Jacutinga",
+[
+"POUSO ALEGRE"
+]
+],
+"3135001": [
+"Jaguaraçu",
+[
+"CORONEL FABRICIANO"
+]
+],
+"3135050": [
+"Jaíba",
+[
+"JANAÚBA"
+]
+],
+"3135076": [
+"Jampruca",
+[
+"TEÓFILO OTONI"
+]
+],
+"3135100": [
+"Janaúba",
+[
+"JANAÚBA"
+]
+],
+"3135209": [
+"Januária",
+[
+"JANUÁRIA"
+]
+],
+"3135308": [
+"Japaraíba",
+[
+"DIVINÓPOLIS"
+]
+],
+"3135357": [
+"Japonvar",
+[
+"MONTES CLAROS"
+]
+],
+"3135407": [
+"Jeceaba",
+[
+"CONSELHEIRO LAFAIETE"
+]
+],
+"3135456": [
+"Jenipapo de Minas",
+[
+"ARAÇUAÍ"
+]
+],
+"3135506": [
+"Jequeri",
+[
+"PONTE NOVA"
+]
+],
+"3135605": [
+"Jequitaí",
+[
+"PIRAPORA"
+]
+],
+"3135704": [
+"Jequitibá",
+[
+"SETE LAGOAS"
+]
+],
+"3135803": [
+"Jequitinhonha",
+[
+"ALMENARA"
+]
+],
+"3135902": [
+"Jesuânia",
+[
+"CAXAMBU"
+]
+],
+"3136009": [
+"Joaíma",
+[
+"ALMENARA"
+]
+],
+"3136108": [
+"Joanésia",
+[
+"CORONEL FABRICIANO"
+]
+],
+"3136207": [
+"João Monlevade",
+[
+"NOVA ERA"
+]
+],
+"3136306": [
+"João Pinheiro",
+[
+"PARACATU"
+]
+],
+"3136405": [
+"Joaquim Felício",
+[
+"CURVELO"
+]
+],
+"3136504": [
+"Jordânia",
+[
+"ALMENARA"
+]
+],
+"3136520": [
+"José Gonçalves de Minas",
+[
+"ARAÇUAÍ"
+]
+],
+"3136553": [
+"José Raydan",
+[
+"GUANHÃES"
+]
+],
+"3136579": [
+"Josenópolis",
+[
+"MONTES CLAROS"
+]
+],
+"3136603": [
+"Nova União",
+[
+"METROPOLITANA A"
+]
+],
+"3136652": [
+"Juatuba",
+[
+"METROPOLITANA B"
+]
+],
+"3136702": [
+"Juiz de Fora",
+[
+"JUIZ DE FORA"
+]
+],
+"3136801": [
+"Juramento",
+[
+"MONTES CLAROS"
+]
+],
+"3136900": [
+"Juruaia",
+[
+"SÃO SEBASTIÃO DO PARAÍSO"
+]
+],
+"3136959": [
+"Juvenília",
+[
+"JANUÁRIA"
+]
+],
+"3137007": [
+"Ladainha",
+[
+"TEÓFILO OTONI"
+]
+],
+"3137106": [
+"Lagamar",
+[
+"PATOS DE MINAS"
+]
+],
+"3137205": [
+"Lagoa da Prata",
+[
+"DIVINÓPOLIS"
+]
+],
+"3137304": [
+"Lagoa dos Patos",
+[
+"PIRAPORA"
+]
+],
+"3137403": [
+"Lagoa Dourada",
+[
+"SÃO JOÃO DEL REI"
+]
+],
+"3137502": [
+"Lagoa Formosa",
+[
+"PATOS DE MINAS"
+]
+],
+"3137536": [
+"Lagoa Grande",
+[
+"PATOS DE MINAS"
+]
+],
+"3137601": [
+"Lagoa Santa",
+[
+"METROPOLITANA C"
+]
+],
+"3137700": [
+"Lajinha",
+[
+"MANHUAÇU"
+]
+],
+"3137809": [
+"Lambari",
+[
+"VARGINHA"
+]
+],
+"3137908": [
+"Lamim",
+[
+"CONSELHEIRO LAFAIETE"
+]
+],
+"3138005": [
+"Laranjal",
+[
+"MURIAÉ"
+]
+],
+"3138104": [
+"Lassance",
+[
+"CURVELO"
+]
+],
+"3138203": [
+"Lavras",
+[
+"CAMPO BELO"
+]
+],
+"3138302": [
+"Leandro Ferreira",
+[
+"PARÁ DE MINAS"
+]
+],
+"3138351": [
+"Leme do Prado",
+[
+"DIAMANTINA"
+]
+],
+"3138401": [
+"Leopoldina",
+[
+"LEOPOLDINA"
+]
+],
+"3138500": [
+"Liberdade",
+[
+"CAXAMBU"
+]
+],
+"3138609": [
+"Lima Duarte",
+[
+"JUIZ DE FORA"
+]
+],
+"3138625": [
+"Limeira do Oeste",
+[
+"UBERABA"
+]
+],
+"3138658": [
+"Lontra",
+[
+"MONTES CLAROS"
+]
+],
+"3138674": [
+"Luisburgo",
+[
+"MANHUAÇU"
+]
+],
+"3138682": [
+"Luislândia",
+[
+"MONTES CLAROS"
+]
+],
+"3138708": [
+"Luminárias",
+[
+"VARGINHA"
+]
+],
+"3138807": [
+"Luz",
+[
+"DIVINÓPOLIS"
+]
+],
+"3138906": [
+"Machacalis",
+[
+"TEÓFILO OTONI"
+]
+],
+"3139003": [
+"Machado",
+[
+"VARGINHA"
+]
+],
+"3139102": [
+"Madre de Deus de Minas",
+[
+"BARBACENA"
+]
+],
+"3139201": [
+"Malacacheta",
+[
+"TEÓFILO OTONI"
+]
+],
+"3139250": [
+"Mamonas",
+[
+"JANAÚBA"
+]
+],
+"3139300": [
+"Manga",
+[
+"JANUÁRIA"
+]
+],
+"3139409": [
+"Manhuaçu",
+[
+"MANHUAÇU"
+]
+],
+"3139508": [
+"Manhumirim",
+[
+"MANHUAÇU"
+]
+],
+"3139607": [
+"Mantena",
+[
+"GOVERNADOR VALADARES"
+]
+],
+"3139706": [
+"Maravilhas",
+[
+"SETE LAGOAS"
+]
+],
+"3139805": [
+"Mar de Espanha",
+[
+"JUIZ DE FORA"
+]
+],
+"3139904": [
+"Maria da Fé",
+[
+"ITAJUBÁ"
+]
+],
+"3140001": [
+"Mariana",
+[
+"OURO PRETO"
+]
+],
+"3140100": [
+"Marilac",
+[
+"GOVERNADOR VALADARES"
+]
+],
+"3140159": [
+"Mário Campos",
+[
+"METROPOLITANA B"
+]
+],
+"3140209": [
+"Maripá de Minas",
+[
+"JUIZ DE FORA"
+]
+],
+"3140308": [
+"Marliéria",
+[
+"CORONEL FABRICIANO"
+]
+],
+"3140407": [
+"Marmelópolis",
+[
+"ITAJUBÁ"
+]
+],
+"3140506": [
+"Martinho Campos",
+[
+"PARÁ DE MINAS"
+]
+],
+"3140530": [
+"Martins Soares",
+[
+"MANHUAÇU"
+]
+],
+"3140555": [
+"Mata Verde",
+[
+"ALMENARA"
+]
+],
+"3140605": [
+"Materlândia",
+[
+"GUANHÃES"
+]
+],
+"3140704": [
+"Mateus Leme",
+[
+"METROPOLITANA B"
+]
+],
+"3140803": [
+"Matias Barbosa",
+[
+"JUIZ DE FORA"
+]
+],
+"3140852": [
+"Matias Cardoso",
+[
+"JANUÁRIA"
+]
+],
+"3140902": [
+"Matipó",
+[
+"MANHUAÇU"
+]
+],
+"3141009": [
+"Mato Verde",
+[
+"JANAÚBA"
+]
+],
+"3141108": [
+"Matozinhos",
+[
+"SETE LAGOAS"
+]
+],
+"3141207": [
+"Matutina",
+[
+"PATOS DE MINAS"
+]
+],
+"3141306": [
+"Medeiros",
+[
+"DIVINÓPOLIS"
+]
+],
+"3141405": [
+"Medina",
+[
+"ARAÇUAÍ"
+]
+],
+"3141504": [
+"Mendes Pimentel",
+[
+"GOVERNADOR VALADARES"
+]
+],
+"3141603": [
+"Mercês",
+[
+"BARBACENA"
+]
+],
+"3141702": [
+"Mesquita",
+[
+"CORONEL FABRICIANO"
+]
+],
+"3141801": [
+"Minas Novas",
+[
+"DIAMANTINA"
+]
+],
+"3141900": [
+"Minduri",
+[
+"CAXAMBU"
+]
+],
+"3142007": [
+"Mirabela",
+[
+"MONTES CLAROS"
+]
+],
+"3142106": [
+"Miradouro",
+[
+"MURIAÉ"
+]
+],
+"3142205": [
+"Miraí",
+[
+"MURIAÉ"
+]
+],
+"3142254": [
+"Miravânia",
+[
+"JANUÁRIA"
+]
+],
+"3142304": [
+"Moeda",
+[
+"METROPOLITANA A"
+]
+],
+"3142403": [
+"Moema",
+[
+"DIVINÓPOLIS"
+]
+],
+"3142502": [
+"Monjolos",
+[
+"DIAMANTINA"
+]
+],
+"3142601": [
+"Monsenhor Paulo",
+[
+"VARGINHA"
+]
+],
+"3142700": [
+"Montalvânia",
+[
+"JANUÁRIA"
+]
+],
+"3142809": [
+"Monte Alegre de Minas",
+[
+"UBERLÂNDIA"
+]
+],
+"3142908": [
+"Monte Azul",
+[
+"JANAÚBA"
+]
+],
+"3143005": [
+"Monte Belo",
+[
+"POÇOS DE CALDAS"
+]
+],
+"3143104": [
+"Monte Carmelo",
+[
+"MONTE CARMELO"
+]
+],
+"3143153": [
+"Monte Formoso",
+[
+"ALMENARA"
+]
+],
+"3143203": [
+"Monte Santo de Minas",
+[
+"SÃO SEBASTIÃO DO PARAÍSO"
+]
+],
+"3143302": [
+"Montes Claros",
+[
+"MONTES CLAROS"
+]
+],
+"3143401": [
+"Monte Sião",
+[
+"POUSO ALEGRE"
+]
+],
+"3143450": [
+"Montezuma",
+[
+"JANAÚBA"
+]
+],
+"3143500": [
+"Morada Nova de Minas",
+[
+"PARÁ DE MINAS"
+]
+],
+"3143609": [
+"Morro da Garça",
+[
+"CURVELO"
+]
+],
+"3143708": [
+"Morro do Pilar",
+[
+"METROPOLITANA C"
+]
+],
+"3143807": [
+"Munhoz",
+[
+"POUSO ALEGRE"
+]
+],
+"3143906": [
+"Muriaé",
+[
+"MURIAÉ"
+]
+],
+"3144003": [
+"Mutum",
+[
+"MANHUAÇU"
+]
+],
+"3144102": [
+"Muzambinho",
+[
+"POÇOS DE CALDAS"
+]
+],
+"3144201": [
+"Nacip Raydan",
+[
+"GOVERNADOR VALADARES"
+]
+],
+"3144300": [
+"Nanuque",
+[
+"TEÓFILO OTONI"
+]
+],
+"3144359": [
+"Naque",
+[
+"GOVERNADOR VALADARES"
+]
+],
+"3144375": [
+"Natalândia",
+[
+"UNAÍ"
+]
+],
+"3144409": [
+"Natércia",
+[
+"ITAJUBÁ"
+]
+],
+"3144508": [
+"Nazareno",
+[
+"SÃO JOÃO DEL REI"
+]
+],
+"3144607": [
+"Nepomuceno",
+[
+"VARGINHA"
+]
+],
+"3144656": [
+"Ninheira",
+[
+"ARAÇUAÍ"
+]
+],
+"3144672": [
+"Nova Belém",
+[
+"GOVERNADOR VALADARES"
+]
+],
+"3144706": [
+"Nova Era",
+[
+"NOVA ERA"
+]
+],
+"3144805": [
+"Nova Lima",
+[
+"METROPOLITANA A"
+]
+],
+"3144904": [
+"Nova Módica",
+[
+"GOVERNADOR VALADARES"
+]
+],
+"3145000": [
+"Nova Ponte",
+[
+"UBERLÂNDIA"
+]
+],
+"3145059": [
+"Nova Porteirinha",
+[
+"JANAÚBA"
+]
+],
+"3145109": [
+"Nova Resende",
+[
+"POÇOS DE CALDAS"
+]
+],
+"3145208": [
+"Nova Serrana",
+[
+"DIVINÓPOLIS"
+]
+],
+"3145307": [
+"Novo Cruzeiro",
+[
+"TEÓFILO OTONI"
+]
+],
+"3145356": [
+"Novo Oriente de Minas",
+[
+"TEÓFILO OTONI"
+]
+],
+"3145372": [
+"Novorizonte",
+[
+"ARAÇUAÍ"
+]
+],
+"3145406": [
+"Olaria",
+[
+"JUIZ DE FORA"
+]
+],
+"3145455": [
+"Olhos-d'Água",
+[
+"MONTES CLAROS"
+]
+],
+"3145505": [
+"Olímpio Noronha",
+[
+"CAXAMBU"
+]
+],
+"3145604": [
+"Oliveira",
+[
+"DIVINÓPOLIS"
+]
+],
+"3145703": [
+"Oliveira Fortes",
+[
+"BARBACENA"
+]
+],
+"3145802": [
+"Onça de Pitangui",
+[
+"PARÁ DE MINAS"
+]
+],
+"3145851": [
+"Oratórios",
+[
+"PONTE NOVA"
+]
+],
+"3145877": [
+"Orizânia",
+[
+"CARANGOLA"
+]
+],
+"3145901": [
+"Ouro Branco",
+[
+"CONSELHEIRO LAFAIETE"
+]
+],
+"3146008": [
+"Ouro Fino",
+[
+"POUSO ALEGRE"
+]
+],
+"3146107": [
+"Ouro Preto",
+[
+"OURO PRETO"
+]
+],
+"3146206": [
+"Ouro Verde de Minas",
+[
+"TEÓFILO OTONI"
+]
+],
+"3146255": [
+"Padre Carvalho",
+[
+"MONTES CLAROS"
+]
+],
+"3146305": [
+"Padre Paraíso",
+[
+"TEÓFILO OTONI"
+]
+],
+"3146404": [
+"Paineiras",
+[
+"PARÁ DE MINAS"
+]
+],
+"3146503": [
+"Pains",
+[
+"DIVINÓPOLIS"
+]
+],
+"3146552": [
+"Pai Pedro",
+[
+"JANAÚBA"
+]
+],
+"3146602": [
+"Paiva",
+[
+"BARBACENA"
+]
+],
+"3146701": [
+"Palma",
+[
+"MURIAÉ"
+]
+],
+"3146750": [
+"Palmópolis",
+[
+"ALMENARA"
+]
+],
+"3146909": [
+"Papagaios",
+[
+"SETE LAGOAS"
+]
+],
+"3147006": [
+"Paracatu",
+[
+"PARACATU"
+]
+],
+"3147105": [
+"Pará de Minas",
+[
+"PARÁ DE MINAS"
+]
+],
+"3147204": [
+"Paraguaçu",
+[
+"VARGINHA"
+]
+],
+"3147303": [
+"Paraisópolis",
+[
+"ITAJUBÁ"
+]
+],
+"3147402": [
+"Paraopeba",
+[
+"SETE LAGOAS"
+]
+],
+"3147501": [
+"Passabém",
+[
+"NOVA ERA"
+]
+],
+"3147600": [
+"Passa Quatro",
+[
+"CAXAMBU"
+]
+],
+"3147709": [
+"Passa Tempo",
+[
+"DIVINÓPOLIS"
+]
+],
+"3147808": [
+"Passa Vinte",
+[
+"CAXAMBU"
+]
+],
+"3147907": [
+"Passos",
+[
+"PASSOS"
+]
+],
+"3147956": [
+"Patis",
+[
+"MONTES CLAROS"
+]
+],
+"3148004": [
+"Patos de Minas",
+[
+"PATOS DE MINAS"
+]
+],
+"3148103": [
+"Patrocínio",
+[
+"PATROCÍNIO"
+]
+],
+"3148202": [
+"Patrocínio do Muriaé",
+[
+"MURIAÉ"
+]
+],
+"3148301": [
+"Paula Cândido",
+[
+"UBÁ"
+]
+],
+"3148400": [
+"Paulistas",
+[
+"GUANHÃES"
+]
+],
+"3148509": [
+"Pavão",
+[
+"TEÓFILO OTONI"
+]
+],
+"3148608": [
+"Peçanha",
+[
+"GUANHÃES"
+]
+],
+"3148707": [
+"Pedra Azul",
+[
+"ALMENARA"
+]
+],
+"3148756": [
+"Pedra Bonita",
+[
+"PONTE NOVA"
+]
+],
+"3148806": [
+"Pedra do Anta",
+[
+"PONTE NOVA"
+]
+],
+"3148905": [
+"Pedra do Indaiá",
+[
+"DIVINÓPOLIS"
+]
+],
+"3149002": [
+"Pedra Dourada",
+[
+"CARANGOLA"
+]
+],
+"3149101": [
+"Pedralva",
+[
+"ITAJUBÁ"
+]
+],
+"3149150": [
+"Pedras de Maria da Cruz",
+[
+"JANUÁRIA"
+]
+],
+"3149200": [
+"Pedrinópolis",
+[
+"UBERABA"
+]
+],
+"3149309": [
+"Pedro Leopoldo",
+[
+"METROPOLITANA C"
+]
+],
+"3149408": [
+"Pedro Teixeira",
+[
+"JUIZ DE FORA"
+]
+],
+"3149507": [
+"Pequeri",
+[
+"JUIZ DE FORA"
+]
+],
+"3149606": [
+"Pequi",
+[
+"PARÁ DE MINAS"
+]
+],
+"3149705": [
+"Perdigão",
+[
+"DIVINÓPOLIS"
+]
+],
+"3149804": [
+"Perdizes",
+[
+"PATROCÍNIO"
+]
+],
+"3149903": [
+"Perdões",
+[
+"CAMPO BELO"
+]
+],
+"3149952": [
+"Periquito",
+[
+"GOVERNADOR VALADARES"
+]
+],
+"3150000": [
+"Pescador",
+[
+"TEÓFILO OTONI"
+]
+],
+"3150109": [
+"Piau",
+[
+"JUIZ DE FORA"
+]
+],
+"3150158": [
+"Piedade de Caratinga",
+[
+"CARATINGA"
+]
+],
+"3150208": [
+"Piedade de Ponte Nova",
+[
+"PONTE NOVA"
+]
+],
+"3150307": [
+"Piedade do Rio Grande",
+[
+"BARBACENA"
+]
+],
+"3150406": [
+"Piedade dos Gerais",
+[
+"METROPOLITANA A"
+]
+],
+"3150505": [
+"Pimenta",
+[
+"PASSOS"
+]
+],
+"3150539": [
+"Pingo-d'Água",
+[
+"CARATINGA"
+]
+],
+"3150570": [
+"Pintópolis",
+[
+"JANUÁRIA"
+]
+],
+"3150604": [
+"Piracema",
+[
+"DIVINÓPOLIS"
+]
+],
+"3150703": [
+"Pirajuba",
+[
+"UBERABA"
+]
+],
+"3150802": [
+"Piranga",
+[
+"CONSELHEIRO LAFAIETE"
+]
+],
+"3150901": [
+"Piranguçu",
+[
+"ITAJUBÁ"
+]
+],
+"3151008": [
+"Piranguinho",
+[
+"ITAJUBÁ"
+]
+],
+"3151107": [
+"Pirapetinga",
+[
+"LEOPOLDINA"
+]
+],
+"3151206": [
+"Pirapora",
+[
+"PIRAPORA"
+]
+],
+"3151305": [
+"Piraúba",
+[
+"UBÁ"
+]
+],
+"3151404": [
+"Pitangui",
+[
+"PARÁ DE MINAS"
+]
+],
+"3151503": [
+"Piumhi",
+[
+"PASSOS"
+]
+],
+"3151602": [
+"Planura",
+[
+"UBERABA"
+]
+],
+"3151701": [
+"Poço Fundo",
+[
+"VARGINHA"
+]
+],
+"3151800": [
+"Poços de Caldas",
+[
+"POÇOS DE CALDAS"
+]
+],
+"3151909": [
+"Pocrane",
+[
+"CARATINGA"
+]
+],
+"3152006": [
+"Pompéu",
+[
+"SETE LAGOAS"
+]
+],
+"3152105": [
+"Ponte Nova",
+[
+"PONTE NOVA"
+]
+],
+"3152131": [
+"Ponto Chique",
+[
+"PIRAPORA"
+]
+],
+"3152170": [
+"Ponto dos Volantes",
+[
+"TEÓFILO OTONI"
+]
+],
+"3152204": [
+"Porteirinha",
+[
+"JANAÚBA"
+]
+],
+"3152303": [
+"Porto Firme",
+[
+"PONTE NOVA"
+]
+],
+"3152402": [
+"Poté",
+[
+"TEÓFILO OTONI"
+]
+],
+"3152501": [
+"Pouso Alegre",
+[
+"POUSO ALEGRE"
+]
+],
+"3152600": [
+"Pouso Alto",
+[
+"CAXAMBU"
+]
+],
+"3152709": [
+"Prados",
+[
+"SÃO JOÃO DEL REI"
+]
+],
+"3152808": [
+"Prata",
+[
+"UBERLÂNDIA"
+]
+],
+"3152907": [
+"Pratápolis",
+[
+"SÃO SEBASTIÃO DO PARAÍSO"
+]
+],
+"3153004": [
+"Pratinha",
+[
+"UBERABA"
+]
+],
+"3153103": [
+"Presidente Bernardes",
+[
+"UBÁ"
+]
+],
+"3153202": [
+"Presidente Juscelino",
+[
+"CURVELO"
+]
+],
+"3153301": [
+"Presidente Kubitschek",
+[
+"DIAMANTINA"
+]
+],
+"3153400": [
+"Presidente Olegário",
+[
+"PATOS DE MINAS"
+]
+],
+"3153509": [
+"Alto Jequitibá",
+[
+"MANHUAÇU"
+]
+],
+"3153608": [
+"Prudente de Morais",
+[
+"SETE LAGOAS"
+]
+],
+"3153707": [
+"Quartel Geral",
+[
+"PARÁ DE MINAS"
+]
+],
+"3153806": [
+"Queluzito",
+[
+"CONSELHEIRO LAFAIETE"
+]
+],
+"3153905": [
+"Raposos",
+[
+"METROPOLITANA A"
+]
+],
+"3154002": [
+"Raul Soares",
+[
+"PONTE NOVA"
+]
+],
+"3154101": [
+"Recreio",
+[
+"LEOPOLDINA"
+]
+],
+"3154150": [
+"Reduto",
+[
+"MANHUAÇU"
+]
+],
+"3154200": [
+"Resende Costa",
+[
+"SÃO JOÃO DEL REI"
+]
+],
+"3154309": [
+"Resplendor",
+[
+"GOVERNADOR VALADARES"
+]
+],
+"3154408": [
+"Ressaquinha",
+[
+"BARBACENA"
+]
+],
+"3154457": [
+"Riachinho",
+[
+"UNAÍ"
+]
+],
+"3154507": [
+"Riacho dos Machados",
+[
+"JANAÚBA"
+]
+],
+"3154606": [
+"Ribeirão das Neves",
+[
+"METROPOLITANA C"
+]
+],
+"3154705": [
+"Ribeirão Vermelho",
+[
+"CAMPO BELO"
+]
+],
+"3154804": [
+"Rio Acima",
+[
+"METROPOLITANA A"
+]
+],
+"3154903": [
+"Rio Casca",
+[
+"PONTE NOVA"
+]
+],
+"3155009": [
+"Rio Doce",
+[
+"PONTE NOVA"
+]
+],
+"3155108": [
+"Rio do Prado",
+[
+"ALMENARA"
+]
+],
+"3155207": [
+"Rio Espera",
+[
+"CONSELHEIRO LAFAIETE"
+]
+],
+"3155306": [
+"Rio Manso",
+[
+"METROPOLITANA A"
+]
+],
+"3155405": [
+"Rio Novo",
+[
+"JUIZ DE FORA"
+]
+],
+"3155504": [
+"Rio Paranaíba",
+[
+"PATOS DE MINAS"
+]
+],
+"3155603": [
+"Rio Pardo de Minas",
+[
+"JANAÚBA"
+]
+],
+"3155702": [
+"Rio Piracicaba",
+[
+"NOVA ERA"
+]
+],
+"3155801": [
+"Rio Pomba",
+[
+"UBÁ"
+]
+],
+"3155900": [
+"Rio Preto",
+[
+"JUIZ DE FORA"
+]
+],
+"3156007": [
+"Rio Vermelho",
+[
+"DIAMANTINA"
+]
+],
+"3156106": [
+"Ritápolis",
+[
+"SÃO JOÃO DEL REI"
+]
+],
+"3156205": [
+"Rochedo de Minas",
+[
+"JUIZ DE FORA"
+]
+],
+"3156304": [
+"Rodeiro",
+[
+"UBÁ"
+]
+],
+"3156403": [
+"Romaria",
+[
+"MONTE CARMELO"
+]
+],
+"3156452": [
+"Rosário da Limeira",
+[
+"MURIAÉ"
+]
+],
+"3156502": [
+"Rubelita",
+[
+"ARAÇUAÍ"
+]
+],
+"3156601": [
+"Rubim",
+[
+"ALMENARA"
+]
+],
+"3156700": [
+"Sabará",
+[
+"METROPOLITANA A"
+]
+],
+"3156809": [
+"Sabinópolis",
+[
+"GUANHÃES"
+]
+],
+"3156908": [
+"Sacramento",
+[
+"UBERABA"
+]
+],
+"3157005": [
+"Salinas",
+[
+"ARAÇUAÍ"
+]
+],
+"3157104": [
+"Salto da Divisa",
+[
+"ALMENARA"
+]
+],
+"3157203": [
+"Santa Bárbara",
+[
+"METROPOLITANA A"
+]
+],
+"3157252": [
+"Santa Bárbara do Leste",
+[
+"CARATINGA"
+]
+],
+"3157278": [
+"Santa Bárbara do Monte Verde",
+[
+"JUIZ DE FORA"
+]
+],
+"3157302": [
+"Santa Bárbara do Tugúrio",
+[
+"BARBACENA"
+]
+],
+"3157336": [
+"Santa Cruz de Minas",
+[
+"SÃO JOÃO DEL REI"
+]
+],
+"3157377": [
+"Santa Cruz de Salinas",
+[
+"ARAÇUAÍ"
+]
+],
+"3157401": [
+"Santa Cruz do Escalvado",
+[
+"PONTE NOVA"
+]
+],
+"3157500": [
+"Santa Efigênia de Minas",
+[
+"GOVERNADOR VALADARES"
+]
+],
+"3157609": [
+"Santa Fé de Minas",
+[
+"PIRAPORA"
+]
+],
+"3157658": [
+"Santa Helena de Minas",
+[
+"TEÓFILO OTONI"
+]
+],
+"3157708": [
+"Santa Juliana",
+[
+"UBERABA"
+]
+],
+"3157807": [
+"Santa Luzia",
+[
+"METROPOLITANA C"
+]
+],
+"3157906": [
+"Santa Margarida",
+[
+"MANHUAÇU"
+]
+],
+"3158003": [
+"Santa Maria de Itabira",
+[
+"NOVA ERA"
+]
+],
+"3158102": [
+"Santa Maria do Salto",
+[
+"ALMENARA"
+]
+],
+"3158201": [
+"Santa Maria do Suaçuí",
+[
+"GUANHÃES"
+]
+],
+"3158300": [
+"Santana da Vargem",
+[
+"VARGINHA"
+]
+],
+"3158409": [
+"Santana de Cataguases",
+[
+"MURIAÉ"
+]
+],
+"3158508": [
+"Santana de Pirapama",
+[
+"SETE LAGOAS"
+]
+],
+"3158607": [
+"Santana do Deserto",
+[
+"JUIZ DE FORA"
+]
+],
+"3158706": [
+"Santana do Garambéu",
+[
+"BARBACENA"
+]
+],
+"3158805": [
+"Santana do Jacaré",
+[
+"CAMPO BELO"
+]
+],
+"3158904": [
+"Santana do Manhuaçu",
+[
+"MANHUAÇU"
+]
+],
+"3158953": [
+"Santana do Paraíso",
+[
+"CORONEL FABRICIANO"
+]
+],
+"3159001": [
+"Santana do Riacho",
+[
+"METROPOLITANA C"
+]
+],
+"3159100": [
+"Santana dos Montes",
+[
+"CONSELHEIRO LAFAIETE"
+]
+],
+"3159209": [
+"Santa Rita de Caldas",
+[
+"POÇOS DE CALDAS"
+]
+],
+"3159308": [
+"Santa Rita de Jacutinga",
+[
+"JUIZ DE FORA"
+]
+],
+"3159357": [
+"Santa Rita de Minas",
+[
+"CARATINGA"
+]
+],
+"3159407": [
+"Santa Rita de Ibitipoca",
+[
+"BARBACENA"
+]
+],
+"3159506": [
+"Santa Rita do Itueto",
+[
+"GOVERNADOR VALADARES"
+]
+],
+"3159605": [
+"Santa Rita do Sapucaí",
+[
+"POUSO ALEGRE"
+]
+],
+"3159704": [
+"Santa Rosa da Serra",
+[
+"PATOS DE MINAS"
+]
+],
+"3159803": [
+"Santa Vitória",
+[
+"ITUIUTABA"
+]
+],
+"3159902": [
+"Santo Antônio do Amparo",
+[
+"CAMPO BELO"
+]
+],
+"3160009": [
+"Santo Antônio do Aventureiro",
+[
+"LEOPOLDINA"
+]
+],
+"3160108": [
+"Santo Antônio do Grama",
+[
+"PONTE NOVA"
+]
+],
+"3160207": [
+"Santo Antônio do Itambé",
+[
+"DIAMANTINA"
+]
+],
+"3160306": [
+"Santo Antônio do Jacinto",
+[
+"ALMENARA"
+]
+],
+"3160405": [
+"Santo Antônio do Monte",
+[
+"DIVINÓPOLIS"
+]
+],
+"3160454": [
+"Santo Antônio do Retiro",
+[
+"JANAÚBA"
+]
+],
+"3160504": [
+"Santo Antônio do Rio Abaixo",
+[
+"NOVA ERA"
+]
+],
+"3160603": [
+"Santo Hipólito",
+[
+"CURVELO"
+]
+],
+"3160702": [
+"Santos Dumont",
+[
+"JUIZ DE FORA"
+]
+],
+"3160801": [
+"São Bento Abade",
+[
+"VARGINHA"
+]
+],
+"3160900": [
+"São Brás do Suaçuí",
+[
+"CONSELHEIRO LAFAIETE"
+]
+],
+"3160959": [
+"São Domingos das Dores",
+[
+"CARATINGA"
+]
+],
+"3161007": [
+"São Domingos do Prata",
+[
+"NOVA ERA"
+]
+],
+"3161056": [
+"São Félix de Minas",
+[
+"GOVERNADOR VALADARES"
+]
+],
+"3161106": [
+"São Francisco",
+[
+"JANUÁRIA"
+]
+],
+"3161205": [
+"São Francisco de Paula",
+[
+"CAMPO BELO"
+]
+],
+"3161304": [
+"São Francisco de Sales",
+[
+"UBERABA"
+]
+],
+"3161403": [
+"São Francisco do Glória",
+[
+"MURIAÉ"
+]
+],
+"3161502": [
+"São Geraldo",
+[
+"UBÁ"
+]
+],
+"3161601": [
+"São Geraldo da Piedade",
+[
+"GOVERNADOR VALADARES"
+]
+],
+"3161650": [
+"São Geraldo do Baixio",
+[
+"GOVERNADOR VALADARES"
+]
+],
+"3161700": [
+"São Gonçalo do Abaeté",
+[
+"PATOS DE MINAS"
+]
+],
+"3161809": [
+"São Gonçalo do Pará",
+[
+"DIVINÓPOLIS"
+]
+],
+"3161908": [
+"São Gonçalo do Rio Abaixo",
+[
+"NOVA ERA"
+]
+],
+"3162005": [
+"São Gonçalo do Sapucaí",
+[
+"VARGINHA"
+]
+],
+"3162104": [
+"São Gotardo",
+[
+"PATOS DE MINAS"
+]
+],
+"3162203": [
+"São João Batista do Glória",
+[
+"PASSOS"
+]
+],
+"3162252": [
+"São João da Lagoa",
+[
+"MONTES CLAROS"
+]
+],
+"3162302": [
+"São João da Mata",
+[
+"POUSO ALEGRE"
+]
+],
+"3162401": [
+"São João da Ponte",
+[
+"MONTES CLAROS"
+]
+],
+"3162450": [
+"São João das Missões",
+[
+"JANUÁRIA"
+]
+],
+"3162500": [
+"São João del Rei",
+[
+"SÃO JOÃO DEL REI"
+]
+],
+"3162559": [
+"São João do Manhuaçu",
+[
+"MANHUAÇU"
+]
+],
+"3162575": [
+"São João do Manteninha",
+[
+"GOVERNADOR VALADARES"
+]
+],
+"3162609": [
+"São João do Oriente",
+[
+"CARATINGA"
+]
+],
+"3162658": [
+"São João do Pacuí",
+[
+"MONTES CLAROS"
+]
+],
+"3162708": [
+"São João do Paraíso",
+[
+"MONTES CLAROS"
+]
+],
+"3162807": [
+"São João Evangelista",
+[
+"GUANHÃES"
+]
+],
+"3162906": [
+"São João Nepomuceno",
+[
+"JUIZ DE FORA"
+]
+],
+"3162922": [
+"São Joaquim de Bicas",
+[
+"METROPOLITANA B"
+]
+],
+"3162948": [
+"São José da Barra",
+[
+"PASSOS"
+]
+],
+"3162955": [
+"São José da Lapa",
+[
+"METROPOLITANA C"
+]
+],
+"3163003": [
+"São José da Safira",
+[
+"GOVERNADOR VALADARES"
+]
+],
+"3163102": [
+"São José da Varginha",
+[
+"PARÁ DE MINAS"
+]
+],
+"3163201": [
+"São José do Alegre",
+[
+"ITAJUBÁ"
+]
+],
+"3163300": [
+"São José do Divino",
+[
+"GOVERNADOR VALADARES"
+]
+],
+"3163409": [
+"São José do Goiabal",
+[
+"NOVA ERA"
+]
+],
+"3163508": [
+"São José do Jacuri",
+[
+"GUANHÃES"
+]
+],
+"3163607": [
+"São José do Mantimento",
+[
+"MANHUAÇU"
+]
+],
+"3163706": [
+"São Lourenço",
+[
+"CAXAMBU"
+]
+],
+"3163805": [
+"São Miguel do Anta",
+[
+"PONTE NOVA"
+]
+],
+"3163904": [
+"São Pedro da União",
+[
+"SÃO SEBASTIÃO DO PARAÍSO"
+]
+],
+"3164001": [
+"São Pedro dos Ferros",
+[
+"PONTE NOVA"
+]
+],
+"3164100": [
+"São Pedro do Suaçuí",
+[
+"GUANHÃES"
+]
+],
+"3164209": [
+"São Romão",
+[
+"PIRAPORA"
+]
+],
+"3164308": [
+"São Roque de Minas",
+[
+"PASSOS"
+]
+],
+"3164407": [
+"São Sebastião da Bela Vista",
+[
+"POUSO ALEGRE"
+]
+],
+"3164431": [
+"São Sebastião da Vargem Alegre",
+[
+"MURIAÉ"
+]
+],
+"3164472": [
+"São Sebastião do Anta",
+[
+"CARATINGA"
+]
+],
+"3164506": [
+"São Sebastião do Maranhão",
+[
+"GUANHÃES"
+]
+],
+"3164605": [
+"São Sebastião do Oeste",
+[
+"DIVINÓPOLIS"
+]
+],
+"3164704": [
+"São Sebastião do Paraíso",
+[
+"SÃO SEBASTIÃO DO PARAÍSO"
+]
+],
+"3164803": [
+"São Sebastião do Rio Preto",
+[
+"NOVA ERA"
+]
+],
+"3164902": [
+"São Sebastião do Rio Verde",
+[
+"CAXAMBU"
+]
+],
+"3165008": [
+"São Tiago",
+[
+"SÃO JOÃO DEL REI"
+]
+],
+"3165107": [
+"São Tomás de Aquino",
+[
+"SÃO SEBASTIÃO DO PARAÍSO"
+]
+],
+"3165206": [
+"São Tomé das Letras",
+[
+"CAXAMBU"
+]
+],
+"3165305": [
+"São Vicente de Minas",
+[
+"BARBACENA"
+]
+],
+"3165404": [
+"Sapucaí-Mirim",
+[
+"ITAJUBÁ"
+]
+],
+"3165503": [
+"Sardoá",
+[
+"GOVERNADOR VALADARES"
+]
+],
+"3165537": [
+"Sarzedo",
+[
+"METROPOLITANA B"
+]
+],
+"3165552": [
+"Setubinha",
+[
+"TEÓFILO OTONI"
+]
+],
+"3165560": [
+"Sem-Peixe",
+[
+"PONTE NOVA"
+]
+],
+"3165578": [
+"Senador Amaral",
+[
+"POUSO ALEGRE"
+]
+],
+"3165602": [
+"Senador Cortes",
+[
+"JUIZ DE FORA"
+]
+],
+"3165701": [
+"Senador Firmino",
+[
+"UBÁ"
+]
+],
+"3165800": [
+"Senador José Bento",
+[
+"POUSO ALEGRE"
+]
+],
+"3165909": [
+"Senador Modestino Gonçalves",
+[
+"DIAMANTINA"
+]
+],
+"3166006": [
+"Senhora de Oliveira",
+[
+"CONSELHEIRO LAFAIETE"
+]
+],
+"3166105": [
+"Senhora do Porto",
+[
+"GUANHÃES"
+]
+],
+"3166204": [
+"Senhora dos Remédios",
+[
+"BARBACENA"
+]
+],
+"3166303": [
+"Sericita",
+[
+"PONTE NOVA"
+]
+],
+"3166402": [
+"Seritinga",
+[
+"CAXAMBU"
+]
+],
+"3166501": [
+"Serra Azul de Minas",
+[
+"DIAMANTINA"
+]
+],
+"3166600": [
+"Serra da Saudade",
+[]
+],
+"3166709": [
+"Serra dos Aimorés",
+[
+"TEÓFILO OTONI"
+]
+],
+"3166808": [
+"Serra do Salitre",
+[
+"PATROCÍNIO"
+]
+],
+"3166907": [
+"Serrania",
+[
+"POÇOS DE CALDAS"
+]
+],
+"3166956": [
+"Serranópolis de Minas",
+[
+"JANAÚBA"
+]
+],
+"3167004": [
+"Serranos",
+[
+"CAXAMBU"
+]
+],
+"3167103": [
+"Serro",
+[
+"DIAMANTINA"
+]
+],
+"3167202": [
+"Sete Lagoas",
+[
+"SETE LAGOAS"
+]
+],
+"3167301": [
+"Silveirânia",
+[
+"UBÁ"
+]
+],
+"3167400": [
+"Silvianópolis",
+[
+"POUSO ALEGRE"
+]
+],
+"3167509": [
+"Simão Pereira",
+[
+"JUIZ DE FORA"
+]
+],
+"3167608": [
+"Simonésia",
+[
+"MANHUAÇU"
+]
+],
+"3167707": [
+"Sobrália",
+[
+"GOVERNADOR VALADARES"
+]
+],
+"3167806": [
+"Soledade de Minas",
+[
+"CAXAMBU"
+]
+],
+"3167905": [
+"Tabuleiro",
+[
+"UBÁ"
+]
+],
+"3168002": [
+"Taiobeiras",
+[
+"ARAÇUAÍ"
+]
+],
+"3168051": [
+"Taparuba",
+[
+"CARATINGA"
+]
+],
+"3168101": [
+"Tapira",
+[
+"UBERABA"
+]
+],
+"3168200": [
+"Tapiraí",
+[
+"DIVINÓPOLIS"
+]
+],
+"3168309": [
+"Taquaraçu de Minas",
+[
+"METROPOLITANA C"
+]
+],
+"3168408": [
+"Tarumirim",
+[
+"CARATINGA"
+]
+],
+"3168507": [
+"Teixeiras",
+[
+"PONTE NOVA"
+]
+],
+"3168606": [
+"Teófilo Otoni",
+[
+"TEÓFILO OTONI"
+]
+],
+"3168705": [
+"Timóteo",
+[
+"CORONEL FABRICIANO"
+]
+],
+"3168804": [
+"Tiradentes",
+[
+"SÃO JOÃO DEL REI"
+]
+],
+"3168903": [
+"Tiros",
+[
+"PATOS DE MINAS"
+]
+],
+"3169000": [
+"Tocantins",
+[
+"UBÁ"
+]
+],
+"3169059": [
+"Tocos do Moji",
+[
+"POUSO ALEGRE"
+]
+],
+"3169109": [
+"Toledo",
+[
+"POUSO ALEGRE"
+]
+],
+"3169208": [
+"Tombos",
+[
+"CARANGOLA"
+]
+],
+"3169307": [
+"Três Corações",
+[
+"VARGINHA"
+]
+],
+"3169356": [
+"Três Marias",
+[
+"CURVELO"
+]
+],
+"3169406": [
+"Três Pontas",
+[
+"VARGINHA"
+]
+],
+"3169505": [
+"Tumiritinga",
+[
+"GOVERNADOR VALADARES"
+]
+],
+"3169604": [
+"Tupaciguara",
+[
+"UBERLÂNDIA"
+]
+],
+"3169703": [
+"Turmalina",
+[
+"DIAMANTINA"
+]
+],
+"3169802": [
+"Turvolândia",
+[
+"VARGINHA"
+]
+],
+"3169901": [
+"Ubá",
+[
+"UBÁ"
+]
+],
+"3170008": [
+"Ubaí",
+[
+"JANUÁRIA"
+]
+],
+"3170057": [
+"Ubaporanga",
+[
+"CARATINGA"
+]
+],
+"3170107": [
+"Uberaba",
+[
+"UBERABA"
+]
+],
+"3170206": [
+"Uberlândia",
+[
+"UBERLÂNDIA"
+]
+],
+"3170305": [
+"Umburatiba",
+[
+"TEÓFILO OTONI"
+]
+],
+"3170404": [
+"Unaí",
+[
+"UNAÍ"
+]
+],
+"3170438": [
+"União de Minas",
+[
+"UBERABA"
+]
+],
+"3170479": [
+"Uruana de Minas",
+[
+"UNAÍ"
+]
+],
+"3170503": [
+"Urucânia",
+[
+"PONTE NOVA"
+]
+],
+"3170529": [
+"Urucuia",
+[
+"JANUÁRIA"
+]
+],
+"3170578": [
+"Vargem Alegre",
+[
+"CARATINGA"
+]
+],
+"3170602": [
+"Vargem Bonita",
+[
+"PASSOS"
+]
+],
+"3170651": [
+"Vargem Grande do Rio Pardo",
+[
+"MONTES CLAROS"
+]
+],
+"3170701": [
+"Varginha",
+[
+"VARGINHA"
+]
+],
+"3170750": [
+"Varjão de Minas",
+[
+"PATOS DE MINAS"
+]
+],
+"3170800": [
+"Várzea da Palma",
+[
+"PIRAPORA"
+]
+],
+"3170909": [
+"Varzelândia",
+[
+"JANUÁRIA"
+]
+],
+"3171006": [
+"Vazante",
+[
+"PARACATU"
+]
+],
+"3171030": [
+"Verdelândia",
+[
+"JANAÚBA"
+]
+],
+"3171071": [
+"Veredinha",
+[
+"DIAMANTINA"
+]
+],
+"3171105": [
+"Veríssimo",
+[
+"UBERABA"
+]
+],
+"3171154": [
+"Vermelho Novo",
+[
+"PONTE NOVA"
+]
+],
+"3171204": [
+"Vespasiano",
+[
+"METROPOLITANA C"
+]
+],
+"3171303": [
+"Viçosa",
+[
+"PONTE NOVA"
+]
+],
+"3171402": [
+"Vieiras",
+[
+"MURIAÉ"
+]
+],
+"3171501": [
+"Mathias Lobato",
+[
+"GOVERNADOR VALADARES"
+]
+],
+"3171600": [
+"Virgem da Lapa",
+[
+"ARAÇUAÍ"
+]
+],
+"3171709": [
+"Virgínia",
+[
+"ITAJUBÁ"
+]
+],
+"3171808": [
+"Virginópolis",
+[
+"GUANHÃES"
+]
+],
+"3171907": [
+"Virgolândia",
+[
+"GOVERNADOR VALADARES"
+]
+],
+"3172004": [
+"Visconde do Rio Branco",
+[
+"UBÁ"
+]
+],
+"3172103": [
+"Volta Grande",
+[
+"LEOPOLDINA"
+]
+],
+"3172202": [
+"Wenceslau Braz",
+[
+"ITAJUBÁ"
+]
+]
+}

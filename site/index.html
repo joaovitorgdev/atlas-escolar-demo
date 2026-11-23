@@ -1,0 +1,153 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Atlas Escolar — demo</title>
+<meta name="description" content="Atlas da Infraestrutura Escolar (demo com dados fictícios): Wi-Fi, parque tecnológico e conectividade por regional de Minas Gerais.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 24 24%27%3E%3Cpath fill=%27%23c8102e%27 d=%27M12 3 22 20H2Z%27/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400..800&family=Instrument+Sans:wght@400..700&display=swap">
+<link rel="stylesheet" href="app.css">
+<script>try{var t=localStorage.getItem('tema');if(t)document.documentElement.dataset.theme=t}catch(e){}</script>
+<script src="https://cdn.jsdelivr.net/npm/echarts@5.5.1/dist/echarts.min.js" defer></script>
+<script src="https://cdn.jsdelivr.net/npm/echarts-gl@2.0.9/dist/echarts-gl.min.js" defer onload="window.GL_OK=true"></script>
+<script src="dados.js" defer></script>
+<script src="mapa.js" defer></script>
+<script src="app.js" defer></script>
+<script src="apresentacao.js" defer></script>
+</head>
+<body>
+<header class="topo">
+  <a class="marca" href="./">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3 22 20H2Z"/></svg>
+    <span><b>Atlas Escolar <span class="selo-demo" title="Todos os números e escolas desta página são inventados">DADOS FICTÍCIOS</span></b><small>Atlas da Infraestrutura Escolar (demo com dados fictícios)</small></span>
+  </a>
+  <button class="busca-gatilho" id="abrir-busca" type="button">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-4-4"/></svg>
+    <span>Buscar escola, INEP, município ou SRE</span><kbd>/</kbd>
+  </button>
+  <button class="botao apresentar" id="apresentar" type="button">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 5v14l11-7z"/></svg>Apresentar
+  </button>
+  <button class="icone" id="tema" type="button" aria-label="Alternar tema claro e escuro">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3a9 9 0 1 0 9 9 7 7 0 0 1-9-9Z"/></svg>
+  </button>
+</header>
+
+<nav class="abas" role="tablist" aria-label="Seções">
+  <button role="tab" data-aba="geral" aria-selected="true">Geral</button>
+  <button role="tab" data-aba="wifi">Wi-Fi</button>
+  <button role="tab" data-aba="parque">Parque tecnológico</button>
+  <button role="tab" data-aba="escolas">Escolas <span class="conta" id="conta-escolas"></span></button>
+  <button role="tab" data-aba="projeto">Projeto</button>
+</nav>
+
+<main>
+  <section id="atlas" data-painel>
+    <nav class="trilha" id="trilha" aria-label="Recorte atual"></nav>
+    <div class="atlas">
+      <figure class="mapa-bloco">
+        <div class="mapa-barra">
+          <button type="button" class="botao" id="mapa-voltar" hidden>
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15 18l-6-6 6-6"/></svg>Voltar
+          </button>
+          <label for="metrica">Colorir por</label>
+          <select id="metrica"></select>
+          <div class="mapa-acoes">
+            <div class="segmento" id="modo" role="group" aria-label="Visualização do mapa">
+              <button type="button" data-modo="2d">2D</button><button type="button" data-modo="3d">3D</button>
+            </div>
+            <button type="button" class="icone" id="mapa-recentrar" aria-label="Recentralizar o mapa" title="Recentralizar o mapa">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 12a9 9 0 0 1 15.5-6.2L21 8M21 3v5h-5M21 12a9 9 0 0 1-15.5 6.2L3 16M3 21v-5h5"/></svg>
+            </button>
+          </div>
+        </div>
+        <div class="mapa-palco"><div id="mapa" role="img" aria-label="Mapa de Minas Gerais por município"></div></div>
+        <div class="legenda-mapa" aria-hidden="true"><span id="leg-nome"></span><span id="leg-min"></span><i id="leg-grad"></i><span id="leg-max"></span></div>
+        <figcaption id="mapa-nota"></figcaption>
+      </figure>
+      <article class="resposta" id="resposta" aria-live="polite"></article>
+    </div>
+    <section class="bloco">
+      <div class="bloco-cab"><h2 id="lista-titulo"></h2><p id="lista-sub"></p></div>
+      <div class="tabela" id="lista"></div>
+    </section>
+    <section class="bloco" id="extras-wifi" hidden>
+      <div class="bloco-cab"><h2>Vistorias da Fase 2</h2><p>Situação da vistoria técnica das escolas com obra entregue. As que esperam há mais tempo aparecem primeiro.</p></div>
+      <div class="chips" id="vist-status" role="group" aria-label="Filtrar por situação"></div>
+      <div class="tabela" id="tabela-vistorias"></div>
+      <div class="bloco-cab" style="margin-top:36px"><h2>Escolas que não receberão Wi-Fi</h2><p id="fora-sub"></p></div>
+      <div class="tabela" id="tabela-fora"></div>
+    </section>
+    <section class="graficos">
+      <figure data-tilt><figcaption id="gc1"></figcaption><div class="grafico" id="g1"></div></figure>
+      <figure data-tilt><figcaption id="gc2"></figcaption><div class="grafico" id="g2"></div></figure>
+      <figure data-tilt><figcaption id="gc3"></figcaption><div class="grafico" id="g3"></div></figure>
+    </section>
+  </section>
+
+  <section id="escolas" data-painel hidden>
+    <div class="filtros" id="filtros">
+      <input type="search" id="f-texto" placeholder="Nome, INEP ou município" aria-label="Filtrar por texto">
+      <select id="f-sre" aria-label="Regional"></select>
+      <select id="f-fase" aria-label="Fase">
+        <option value="">Todas as fases</option><option value="1">Fase 1</option><option value="2">Fase 2</option><option value="0">Sem fase</option>
+      </select>
+      <select id="f-wifi" aria-label="Wi-Fi do projeto">
+        <option value="">Com e sem Wi-Fi</option><option value="1">Com Wi-Fi do projeto</option><option value="0">Sem Wi-Fi do projeto</option><option value="nr">Não receberão Wi-Fi</option>
+      </select>
+      <select id="f-zona" aria-label="Localização">
+        <option value="">Todas as zonas</option><option value="0">Urbana</option><option value="1">Distrito</option><option value="2">Rural</option>
+      </select>
+      <select id="f-at" aria-label="Atendimento da internet">
+        <option value="">Qualquer internet</option><option value="1">Internet adequada</option><option value="0">Internet insuficiente</option><option value="-1">Sem avaliação</option>
+      </select>
+    </div>
+    <div class="acoes">
+      <p id="escolas-resumo"></p>
+      <button type="button" class="botao" id="fila">Fila de prioridade</button>
+      <button type="button" class="botao" id="limpar">Limpar filtros</button>
+      <button type="button" class="botao primario" id="csv">Baixar CSV</button>
+      <button type="button" class="botao" data-imprimir>Imprimir</button>
+    </div>
+    <div class="tabela" id="tabela-escolas"></div>
+  </section>
+
+  <section id="projeto" data-painel hidden></section>
+</main>
+
+<footer class="rodape" id="rodape"></footer>
+
+<div class="ap" id="ap" hidden role="region" aria-label="Apresentação">
+  <div class="ap-palco"><div id="ap-mapa"></div></div>
+  <div class="ap-canto"><div id="ap-mini" aria-hidden="true"></div><p id="ap-legenda"></p></div>
+  <article class="ap-painel" id="ap-painel" aria-live="polite"></article>
+  <div class="ap-controles" id="ap-controles">
+    <button type="button" class="ap-btn" data-ap="ant" aria-label="Anterior"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15 18l-6-6 6-6"/></svg></button>
+    <button type="button" class="ap-btn" data-ap="play" aria-label="Pausar" data-estado="tocando">
+      <svg class="i-pausa" viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5v14M16 5v14"/></svg>
+      <svg class="i-play" viewBox="0 0 24 24" aria-hidden="true"><path d="M7 5v14l11-7z"/></svg>
+    </button>
+    <button type="button" class="ap-btn" data-ap="prox" aria-label="Próxima"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 18l6-6-6-6"/></svg></button>
+    <div class="ap-progresso" aria-hidden="true"><i id="ap-feito"></i><i id="ap-fatia"></i></div>
+    <span id="ap-conta"></span>
+    <button type="button" class="ap-btn" data-ap="sair" aria-label="Sair da apresentação"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18"/></svg></button>
+  </div>
+</div>
+
+<dialog class="ficha" id="ficha" aria-labelledby="ficha-nome">
+  <button class="icone fechar" type="button" data-fechar aria-label="Fechar ficha">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18"/></svg>
+  </button>
+  <div id="ficha-corpo"></div>
+</dialog>
+
+<dialog class="paleta" id="paleta" aria-label="Busca">
+  <input type="search" id="busca" placeholder="Buscar escola, INEP, município ou SRE" autocomplete="off" role="combobox" aria-expanded="true" aria-controls="busca-res">
+  <ul id="busca-res" role="listbox"></ul>
+  <p class="paleta-dica"><kbd>↑</kbd><kbd>↓</kbd> navegar <kbd>Enter</kbd> abrir <kbd>Esc</kbd> fechar</p>
+</dialog>
+</body>
+</html>
