@@ -4,7 +4,8 @@
 
 > **Dados fictícios.** Todas as escolas, códigos INEP e números deste repositório são inventados por `gerar_dados_demo.py`. A versão real roda internamente. Esta demo foi inspirada num painel que construí para a rede estadual de ensino, mas **não é um produto oficial** e não usa marcas oficiais. Só a geografia é real e pública: a malha municipal do IBGE e a divisão dos municípios entre as regionais (SREs).
 
-<!-- Screenshot: adicionar docs/tela.png (mapa 3D na aba Geral) e referenciar aqui. -->
+![Atlas Escolar: mapa 3D na aba Geral](docs/tela.png)
+
 **▶ Demo ao vivo:** https://joaovitorgdev.github.io/atlas-escolar-demo/
 
 ## O que faz
